@@ -19,6 +19,8 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "angular": "^1.6.4",
+    "swiper": "^3.4.2"
   }
 }
